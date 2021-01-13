@@ -39,7 +39,7 @@ python cgb.py
 
 ### Adding new responses or editing them.
 
-Responses are very easy to add. They're located at the data folder as text files where responses are separated using newlines. Currently, local response databases exist only for Truth or Dare, Never Have I Ever, and This or That. Would You Rather and Press The Button works by requesting their websites to fetch questions. I do plan on also making a local database for both of these games just in case the request approach fails or stops working in the future.
+Responses are located at the data folder in text files where they're separated using newlines. Currently, local response databases exist only for Truth or Dare, Never Have I Ever, and This or That. Would You Rather and Press The Button works by requesting their websites to fetch questions. I do plan on also making a local database for both of these games just in case the request approach fails or stops working in the future.
 
 ## 🤝 Contributing
 
