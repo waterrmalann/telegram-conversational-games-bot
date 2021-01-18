@@ -133,7 +133,7 @@ Work: Alone or In a Team
 Trip or Staycation
 Gifts: Handmade or Bought
 Modern or Rustic
-Minimalist or Maximalist
+Extravagant or Minimalist
 Comfort or Style
 Sinful or Righteous
 Festivals: Art or Music
@@ -172,3 +172,54 @@ Sunrise or Sunset
 Beard or Clean-Shaved
 Sports or Video-Games
 Image or Video
+Dishes or Laundry
+Spiders or Snakes
+Rap Music or Country Music
+Sneeze or Hiccup
+Time Travel or Space Travel
+Comfortable Silence or Incredible Conversation
+Son or Daughter
+Fame or Money
+Albert Einstein or Isaac Newton
+Ancient Greece or Ancient Rome
+Apartment or House
+Aquarium or Zoo
+Cyborg or Human
+Dragon or Unicorn
+Hero or Villian
+Ninja or Samurai
+Ruler or Follower
+Fly or Teleport
+Broke or Dead
+Loved or Feared
+Wise or Intelligent
+Bill Gates or Mark Zuckerberg
+Eggs: Boiled or Fried
+Brush or Comb
+Burgers or Pizzas
+Cardio or Weights
+Cambridge or Harvard
+Flats or Heels
+Give or Receive
+Harry Potter or Hunger Games
+Instagram or Snapchat
+The Avengers or The Justice League
+Mafia or Street Gang
+Kill or Be Killed
+Linux or Windows
+London or Paris
+Nails: Long or Short
+Overdressed or Underdressed
+Piano or Guitar
+Rent or Buy
+Speed or Precision
+Autumn or Spring
+Star Wars or Star Trek
+Sun or Moon
+Talk or Listen
+Taj Mahal or Eiffel Tower
+Call: Video or Audio
+Truth or Dare
+Rome or Paris
+Tesla or SpaceX
+Zombie Outbreak or Alien Invasion
