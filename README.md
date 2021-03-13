@@ -49,6 +49,7 @@ Contributions are accepted and there really isn't any strict rules. Feel free to
 
 You can also help me with the current to-do list I have in mind (in no particular order).
 - Add command cooldowns.
+- Inline mode support.
 - Avoid repetition of the same response for the same person.
 - Larger database of questions.
 - Backup local database of questions for press the button and would you rather.
