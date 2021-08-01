@@ -22,9 +22,9 @@ I'm not hosting any public instances of the bot right now, but I may in the futu
 
 ### Installing
 
-1. Clone the repository. (I recommend making a virtual environment)
+1. Clone the repository. (I recommend creating a virtual environment)
 ```
-git clone https://github.com/posetack/telegram-conversational-games-bot.git
+git clone https://github.com/waterrmalann/telegram-conversational-games-bot.git
 ```
 2. Install the requirements.txt
 ```
@@ -37,7 +37,7 @@ python -m pip install -r requirements.txt
 python cgb.py
 ```
 
-### Adding new responses or editing them.
+### Adding new responses or editing them
 
 Responses are located at the data folder in text files where they're separated using newlines. Currently, local response databases exist only for Truth or Dare, Never Have I Ever, and This or That. Would You Rather and Press The Button works by requesting their websites to fetch questions. I do plan on also making a local database for both of these games just in case the request approach fails or stops working in the future.
 
